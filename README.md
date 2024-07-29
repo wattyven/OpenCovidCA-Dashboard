@@ -5,3 +5,4 @@ A Jupyter notebook for making quick and dirty visualizations of Canadian COVID s
 
 ## Update: 29 Apr 2024
 I went back to update this notebook to add comparisons between forecasts and actual data; unfortunately, it seems as if the API for OpenCOVID is no longer accessible. :(
+The data appear to have been preserved, so I've forked it, and eventually might restore functionality using the backed up data.
